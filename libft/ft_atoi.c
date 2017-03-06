@@ -6,7 +6,7 @@
 /*   By: opodolia <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2016/12/01 17:51:20 by opodolia          #+#    #+#             */
-/*   Updated: 2016/12/06 14:45:26 by opodolia         ###   ########.fr       */
+/*   Updated: 2017/02/02 19:00:13 by opodolia         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -14,8 +14,8 @@
 
 int		ft_atoi(const char *str)
 {
-	int rt;
-	int neg;
+	int		rt;
+	int		neg;
 
 	rt = 0;
 	neg = 1;
