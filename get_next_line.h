@@ -6,14 +6,14 @@
 /*   By: opodolia <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2017/01/17 17:28:00 by opodolia          #+#    #+#             */
-/*   Updated: 2017/01/25 14:52:01 by opodolia         ###   ########.fr       */
+/*   Updated: 2017/03/20 21:05:06 by opodolia         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #ifndef GET_NEXT_LINE_H
 # define GET_NEXT_LINE_H
 # define BUFF_SIZE 32
-# include "libft/libft.h"
+# include "libft/includes/libft.h"
 
 typedef	struct		s_get
 {
